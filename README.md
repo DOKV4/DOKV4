@@ -8,3 +8,5 @@
     <img src="https://skillicons.dev/icons?i=html,idea,java,js,linux,notion,pycharm,py,unity,visualstudio"/>
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokv4)](https://github.com/anuraghazra/github-readme-stats)
