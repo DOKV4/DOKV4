@@ -10,6 +10,14 @@
   </a>
 </p>
 
+<h3 align="center">Platforms for work:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,blender,figma,github,anaconda,idea,visualstudio,unity,pycharm"/>
+  </a>
+</p>
+
 
 
 <p align="center">
