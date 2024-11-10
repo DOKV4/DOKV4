@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, androidstudio, blender, cs, cpp, css, discord, figma, github" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,blender,cs,cpp,css,discord,figma,github"/>
   </a>
 </p>
