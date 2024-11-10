@@ -2,11 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7384F7&background=1907FF00&center=true&vCenter=true&width=500&lines=Hi%2C+there+I'm+DOKVA" alt="Typing SVG">
 </p><br>
 
+<p>
+    I know such languages:
+</p>
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,androidstudio,blender,cs,cpp,css,discord,figma,github,anaconda"/>
     <img src="https://skillicons.dev/icons?i=html,idea,java,js,linux,notion,pycharm,py,unity,visualstudio"/>
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokv4)](https://github.com/anuraghazra/github-readme-stats)
