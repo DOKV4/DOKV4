@@ -8,13 +8,13 @@
   </a>
 </p>
 <h3 align="center">Platforms for work:</h3>
-<p align="center" color=7384F7>
+<p align="center" color="7384F7">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,blender,figma,github,anaconda,idea,visualstudio,unity,pycharm"/>
   </a>
 </p>
 <h3 align="center">Applications that I use for my own use</h3>
-<p align="center" color=7384F7>
+<p align="center" color="7384F7">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=notion,obsidian"/>
   </a>
