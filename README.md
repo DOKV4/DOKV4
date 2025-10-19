@@ -4,13 +4,13 @@
 <h3 align="center">I know:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,css,html,java,py,git,mysql,postgresql"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,css,html,py,git,mysql,postgresql"/>
   </a>
 </p>
 <h3 align="center">Platforms for work:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,blender,figma,github,anaconda,idea,visualstudio,unity,pycharm"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,blender,figma,github,idea,visualstudio,unity,pycharm"/>
   </a>
 </p>
 <h3 align="center">Applications that I use for my own use</h3>
